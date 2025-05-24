@@ -10,6 +10,7 @@ public class SlackAppApplication {
 		System.out.println("Main App");
 		SpringApplication.run(SlackAppApplication.class, args);
 		System.out.println("App");
+		System.out.println("");
 	}
 
 }
